@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-This is a second example
+# My very first repo
+Kalob is a nice teacher! 5 star review!!!
